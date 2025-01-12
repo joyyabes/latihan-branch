@@ -1,2 +1,2 @@
 # latihan-branch
-Halo, ini latihan branch
+GitHub itu Asyik
